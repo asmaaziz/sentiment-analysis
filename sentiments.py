@@ -1,6 +1,6 @@
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 dir= 'C:\\Users\\asmazi01\\dir_path'
-commentfile= 'yellow.txt'
+commentfile= 'input.txt'
 delim ='\t'
 
 fname = dir + '\\' + commentfile
